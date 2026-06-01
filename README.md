@@ -130,7 +130,7 @@ Data Collection → Data Cleaning → Exploratory Data Analysis → Data Transfo
 
 ## 👨‍💻 Author
 
-**Pratik Parnar**
+**Pratikkumar Parmar**
 
 Software Engineering Graduate
 
